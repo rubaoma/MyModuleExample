@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyModuleExample1</string>
+    <string name="show_list">show_list</string>
+    <string name="out">out</string>
 </resources>
